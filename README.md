@@ -102,6 +102,3 @@ Developed by: Ibrahim Mohideen SP
 Inspired by: Ollama, Phi3, Streamlit, and real-world assistant needs.
 
 
----
-
-Would you like this also as a downloadable file (README.md) or GitHub-ready push instructions?
